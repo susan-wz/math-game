@@ -9,8 +9,4 @@ class Player
     @score = 3
   end
 
-  # def print_score
-  #   "#{@name} Score: #{@score}/3"
-  # end
-
 end
