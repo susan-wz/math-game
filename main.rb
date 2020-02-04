@@ -7,3 +7,10 @@
 require './players';
 require './questions';
 require './turns';
+
+class Game
+  
+  def initialise
+  end
+
+end
